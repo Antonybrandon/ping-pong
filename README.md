@@ -3,9 +3,9 @@
 
 ## Description ##
 This a web based on javascript from the user the numbers are picked with the following exceptions:
-* Numbers divisible by 3 are replaced with ping
-* Numbers divisible by 5 are replaced with pong
-* Numbers divisible by 15 are replaced with pingpong
+* Numbers divisible by 3 are replaced with Ping
+* Numbers divisible by 5 are replaced with Pong
+* Numbers divisible by 15 are replaced with Pingpong
 
 ## Setup/Installation ##
 To use this landing page 
