@@ -23,7 +23,7 @@ body {
 }
 .pingpong_image{
   float:left;
-  background-size: 3px
+  image: 3px
 }
 .header .header-content .gamename {
   color: #1dd80c;
