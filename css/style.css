@@ -1,0 +1,72 @@
+/** body **/
+body {
+  font-family: 'Lato', arial, sans-serif;
+ 
+  background: rgb(40, 224, 16);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/** header **/
+.header{
+  padding: 40px 0;
+  background: #f5f5f5;
+  padding-left: 15px;
+  font-size: 1.5em
+ 
+}
+
+.header .pingpong_image {
+  margin-right: 350px;
+  
+}
+.pingpong_image{
+  float:left;
+  background-size: 3px
+}
+.header .header-content .gamename {
+  color: #1dd80c;
+  font-size: 38px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.header .header-content .work {
+  color: #53e635;
+  font-family: "Lato", arial, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.heading{
+  font-family: "Lato", arial, sans-serif;
+  margin-top: 0;
+  margin-bottom: 15px;
+
+}
+h6.heading{
+  padding-left: 10px;
+}
+/** content **/
+.sections-wrapper {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.section {
+  margin-bottom: 30px;
+}
+.section .section-inner {
+  background: rgb(66, 166, 190);
+  padding: 30px;
+}
+.section .heading {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #000000;
+  font-size: 29px;
+}
+.section .content .more-link .fa {
+  margin-right: 5px;
+  font-size: 18px;
+}
